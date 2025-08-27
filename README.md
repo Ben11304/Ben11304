@@ -1,4 +1,8 @@
 ## Hi there 👋
+* 👂 My name is Huy
+* I'm from VietNam 🇻🇳
+* I'm currently studying Msc in AI
+* 📫 Contact me: huydv6210@gmai.com
 
 <!--
 **Ben11304/Ben11304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
